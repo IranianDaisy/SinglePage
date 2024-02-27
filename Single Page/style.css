@@ -1,0 +1,110 @@
+header{
+   
+    width: 100%;
+    background-color: #003738;
+    padding: 15px;
+    opacity: .5;
+    text-align: center;
+  }
+#headerimg{
+    width: 300px;
+    height: auto;
+}
+
+body{
+    background-image: url(./images/sunset.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: iranian sans;
+    text-align: center;
+    direction: rtl;
+}
+nav{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 40px;
+    width: 100%;
+    margin-top: 25px;
+    padding-top: 15px;
+ 
+}
+
+.menubar{
+    width: 100%;
+    padding: 15px;
+     margin-right: 20px;
+    color: rgba(54, 178, 160,0.6);
+    text-decoration: none;
+}
+
+#slider{
+    margin-top: 50px;
+    padding: 100px;
+    background-color:  rgba(0, 0, 0, 0.5);
+    border-width: 2px;
+    border-color:#090909;
+    border-style: solid;
+    color:#404040;
+   }
+
+#Aboutus{
+    margin-top: 50px;
+    padding: 50px;
+    background-color:  rgba(0, 0, 0, 0.5);
+    border-width: 2px;
+    border-color:#090909;
+    border-style: solid;
+    color:#404040;
+
+}
+
+
+#Services{
+    margin-top: 150px;
+    padding: 30px;
+    background-color:  rgba(0, 0, 0, 0.5);
+    border-width: 2px;
+    border-color:#090909;
+    border-style: solid;
+    color:#404040;
+}
+
+#Refrences{
+    margin-top: 50px;
+    padding: 30px;
+    background-color:  rgba(0, 0, 0, 0.5);
+    border-width: 2px;
+    border-color:#090909;
+    border-style: solid;
+    color:#404040;
+}
+
+#ContactUs{
+    margin-top: 50px;
+    padding: 30px;
+    background-color:  rgba(0, 0, 0, 0.5);
+    border-width: 2px;
+    border-color:#090909;
+    border-style: solid;
+    color:#404040;
+}
+#message{
+    padding: 15px;
+    display:block ;
+}
+#textarea{
+    background-color:#c3b0919d;
+}
+footer{
+    width: 100%;
+    background-color: #003738;
+    padding: 15px;
+    opacity: .5;
+    text-align: center;
+   
+}
+.footerItems{
+    margin-left: 15px;
+    color: #d4af37;
+    text-decoration: none;
+    
+}
